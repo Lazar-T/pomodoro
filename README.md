@@ -5,7 +5,7 @@ pomodoro
 ![Screenshot](http://i.imgur.com/lqKnBSq.png)
 
 ### Requirements
-pomodoro is using pynotify to display notifications.
+pomodoro is using pynotify to display notifications, and pygame to play notification sound.
 
 ### Installation and Running
 ```
