@@ -2,7 +2,7 @@ pomodoro
 =========
 ###Screenshot
 
-![Screenshot](http://i.imgur.com/4CNluFI.png)
+![Screenshot](http://i.imgur.com/lqKnBSq.png)
 
 ### Requirements
 pomodoro is using pynotify to display notifications.
