@@ -9,8 +9,13 @@ mixer.init()
 mixer.music.load(os.getcwd() + "/sound.mp3")
 
 start = pynotify.Notification("Pomodoro Timer",
-    """<i>The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals traditionally 25 minutes in length, separated by short breaks. These intervals are known as "pomodori", the plural of the Italian word pomodoro for "tomato". The method is based on the idea that frequent breaks can improve mental agility. <a href="http://en.wikipedia.org/wiki/Pomodoro_Technique">Learn more</a></i>""",
-    os.getcwd() + "/img.png")
+"""<i>The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
+The technique uses a timer to break down work into intervals traditionally 25 minutes in length, separated
+by short breaks. These intervals are known as "pomodori", the plural of the Italian word pomodoro for "tomato".
+The method is based on the idea that frequent breaks can improve mental agility.
+<a href="http://en.wikipedia.org/wiki/Pomodoro_Technique">Learn more</a></i>""",
+os.getcwd() + "/img.png")
+
 start.show()
 
 work_len = raw_input("Enter number of minutes for pomodoro session: ")
