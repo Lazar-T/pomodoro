@@ -18,7 +18,7 @@ os.getcwd() + "/img.png")
 
 start.show()
 
-work_len = raw_input("Enter number of minutes for pomodoro session: ")
+work_len = raw_input("Enter number of minutes per pomodoro session: ")
 work_in_seconds = int(work_len) * 60
 
 pause_len = raw_input("Enter number of minutes between each pomodoro session: ")
