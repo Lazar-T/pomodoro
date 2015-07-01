@@ -2,7 +2,7 @@ pomodoro
 =========
 ###Screenshot
 
-![Screenshot](http://i.imgur.com/lqKnBSq.png)
+![Screenshot](http://i.imgur.com/w1eVqFk.png)
 
 ### Requirements
 pomodoro is using [pynotify](http://home.gna.org/py-notify/) to display notifications, and [pygame](http://pygame.org/news.html) to play notification sound.
