@@ -1,6 +1,6 @@
 pomodoro
 =========
-###Screenshot
+###Screenshots
 
 ![Screenshot](http://i.imgur.com/w1eVqFk.png)
 
